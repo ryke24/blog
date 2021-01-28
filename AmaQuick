@@ -1,0 +1,5 @@
+<div class="box" style="margin-bottom: 0px;">
+<div class="image" style="float: left; margin: 0px 12px 1px 0px;"><a href="${url}" target="_blank"><img src="${img}" alt="${asin}" border="0" /></a></div>
+<a href="${url}" target="_blank">${title}</a>
+</div>
+<div style="clear: left;"></div>
